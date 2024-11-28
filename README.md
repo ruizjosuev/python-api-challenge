@@ -1,0 +1,1 @@
+This project demonstrates the practical application of Python for data analysis and visualization by exploring weather trends and planning ideal vacation spots based on real-world data. It is divided into two main parts: WeatherPy and VacationPy.
